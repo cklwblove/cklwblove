@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=cklwblove.cklwblove)
 
+📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 
 ```text
