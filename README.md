@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=cklwblove.cklwblove)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <h2> <strong> My Github Stats </strong> </h2>
