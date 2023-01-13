@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=cklwblove.cklwblove)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript       12 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   45.48 %
+TypeScript       8 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.88 %
+JSON             3 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Markdown         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+HTML             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+tsconfig         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
