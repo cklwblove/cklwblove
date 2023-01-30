@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=cklwblove.cklwblove)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 72 Contributions in the Year 2023
+> 🏆 73 Contributions in the Year 2023
  > 
-> 📦 103.6 kB Used in GitHub's Storage 
+> 📦 103.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       145 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
+Monday       146 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
 Tuesday      126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
 Wednesday    193 commits    █████░░░░░░░░░░░░░░░░░░░░   22.21% 
 Thursday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
 Friday       152 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.49% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
+Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
 Sunday       59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.79%
 
 ```
@@ -62,13 +62,17 @@ Sunday       59 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   43.25% 
+TypeScript               1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.28% 
+Vue.js                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
+JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 8 hrs 1 min         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -89,7 +93,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cklwblove/cklwblove/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2023 18:44:18 UTC
+ Last Updated on 30/01/2023 18:46:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="left">
