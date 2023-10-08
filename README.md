@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=cklwblove.cklwblove)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C040%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 
 > 📦 152.0 kB Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2023
+> 🏆 405 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 300 Public Repositories 
+> 📜 301 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3865 commits        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌆 Daytime                7239 commits        ████████████░░░░░░░░░░░░░   46.09 % 
+🌞 Morning                3866 commits        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+🌆 Daytime                7239 commits        ████████████░░░░░░░░░░░░░   46.08 % 
 🌃 Evening                4121 commits        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
 🌙 Night                  482 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   2608 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Tuesday                  2624 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Tuesday                  2624 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Wednesday                2667 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 Thursday                 2972 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 Friday                   2789 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 Saturday                 847 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Sunday                   1200 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Sunday                   1201 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 
 
@@ -60,13 +60,17 @@ Sunday                   1200 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
+TypeScript               2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Vue.js                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 7 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +90,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cklwblove/cklwblove/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2023 18:43:58 UTC
+ Last Updated on 08/10/2023 18:44:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="left">
