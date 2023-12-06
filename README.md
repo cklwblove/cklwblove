@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=cklwblove.cklwblove)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C229%20hrs%2031%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 152.1 kB Used in GitHub's Storage 
  > 
-> 🏆 466 Contributions in the Year 2023
+> 🏆 467 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,46 +31,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4025 commits        ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌆 Daytime                7393 commits        ███████████░░░░░░░░░░░░░░   45.95 % 
-🌃 Evening                4186 commits        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-🌙 Night                  484 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2653 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Tuesday                  2682 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                2772 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 3013 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Friday                   2851 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Saturday                 888 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Sunday                   1229 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Vue.js                   8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-TypeScript               7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-JSON                     3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-
-🔥 Editors: 
-WebStorm                 31 hrs 39 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      31 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +48,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cklwblove/cklwblove/master/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:45:19 UTC
+ Last Updated on 06/12/2023 18:45:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="left">
