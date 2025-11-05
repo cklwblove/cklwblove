@@ -50,9 +50,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C394%20hrs%2022%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-2%2C394%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -131,8 +131,8 @@ Java                     2 repos             █░░░░░░░░░░�
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=cklwblove&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" /> <br> <br>
   <img src="https://streak-stats.demolab.com?user=cklwblove&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=cklwblove&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cklwblove&show_icons=true&title_color=0079fa&text_color=0079fa&icon_color=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="github stats" />
 </div>
 <br>
 
-[![活跃度图表](https://github-readme-activity-graph.cyclic.app/graph?username=cklwblove&custom_title=贡献活跃度&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![活跃度图表](https://github-readme-activity-graph.vercel.app/graph?username=cklwblove&custom_title=贡献活跃度&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
