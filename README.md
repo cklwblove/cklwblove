@@ -1,20 +1,53 @@
 ### Hi there 👋
 
-<!--
-**cklwblove/cklwblove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![访客统计](https://visitor-badge.laobi.icu/badge?page_id=cklwblove.cklwblove)
+![GitHub followers](https://img.shields.io/github/followers/cklwblove?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/cklwblove?style=social)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://visitor-badge.glitch.me/badge?page_id=cklwblove.cklwblove)
+## 👨‍💻 关于我
+
+我是一名专业的**前端开发工程师**，专注于构建高性能、用户体验优秀的 Web/H5/跨端应用。
+
+🚀 前端技术元框架 **[WinJS](https://github.com/winjs-dev/winjs-docs)** 的作者
+
+**💻 技术栈**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![uni-app](https://img.shields.io/badge/-uni--app-2B9939?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDMuNUw0LjUgMTBWMjJMMTYgMjguNUwyNy41IDIyVjEwTDE2IDMuNVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Rsbuild](https://img.shields.io/badge/-Rsbuild-FF6A00?style=flat-square&logo=rsbuild&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+- 🎯 追求代码质量与工程化实践
+- 📚 热爱技术分享与持续学习
+
+## 📖 业余创作
+
+工作之余，我也是一名小说创作者，用文字构建另一个世界。
+
+<div align="center">
+  <img src="./assets/novel.jpg" alt="洪荒纪元：天道之争" width="280"/>
+</div>
+
+## 📮 联系方式
+
+欢迎关注我的公众号，获取更多技术文章和创作内容：
+
+<div align="center">
+  <strong>📱 公众号：博文8099</strong>
+</div>
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C394%20hrs%2022%20mins-blue)
@@ -93,11 +126,13 @@ Java                     2 repos             █░░░░░░░░░░�
  Last Updated on 11/01/2024 18:44:42 UTC
 <!--END_SECTION:waka-->
 
-<div align="left">
-  <h2> <strong> My Github Stats </strong> </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=cklwblove&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="cklwblove" align="middle"  /> <br> <br>
-  <img src="https://streak-stats.demolab.com?    user=cklwblove&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=cklwblove&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
+## 📈 代码足迹
 
-[![cklwblove's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cklwblove&custom_title=cklwblove's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=cklwblove&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" /> <br> <br>
+  <img src="https://streak-stats.demolab.com?user=cklwblove&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=cklwblove&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="github stats" />
+</div>
+<br>
+
+[![活跃度图表](https://github-readme-activity-graph.cyclic.app/graph?username=cklwblove&custom_title=贡献活跃度&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
