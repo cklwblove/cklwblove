@@ -37,6 +37,10 @@
 
 <div align="center">
   <img src="./assets/novel.jpg" alt="洪荒纪元：天道之争" width="280"/>
+  <br/>
+  
+🔖 欢迎扫描小说封面二维码关注阅读
+
 </div>
 
 ## 📮 联系方式
