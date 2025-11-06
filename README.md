@@ -82,6 +82,6 @@ Python                59 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=cklwblove&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cklwblove&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cklwblove&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top Languages" />
 
 </div>
