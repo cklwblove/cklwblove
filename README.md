@@ -45,10 +45,10 @@
 
 ## 📮 联系方式
 
-欢迎关注我的微信公众号「博文8099」，获取更多技术文章和创作内容：
+欢迎关注我的微信公众号「博文0899」，获取更多技术文章和创作内容：
 
 <div align="center">
-  <img src="./assets/weixin.png" alt="博文8099" width="80%"/>
+  <img src="./assets/weixin.png" alt="博文0899" width="80%"/>
 </div>
 
 ---
